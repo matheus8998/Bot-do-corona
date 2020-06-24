@@ -9,4 +9,4 @@ Ao marcar o bot (@bot_do_corona) acompanhado por uma UF (DF, SP, RJ...) ele resp
 -Gráfico de mortes diárias
 -Gráfico de mortes totais
 
-Dados utilizados pelo bot foram retirados do repositório: https://github.com/wcota/covid19br/
+Dados utilizados pelo bot foram retirados do repositório: https://github.com/wcota/covid19br/ pertencente a @wcota
